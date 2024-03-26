@@ -64,4 +64,5 @@ public class Tour {
 			}
 			)
     private Set<ImageModel> tourImages;
+
 }

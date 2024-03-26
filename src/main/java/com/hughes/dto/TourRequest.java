@@ -26,4 +26,5 @@ public class TourRequest {
 	private String endDate;
 	private Integer seats;
 	private byte[] imageData;
+	
 }
